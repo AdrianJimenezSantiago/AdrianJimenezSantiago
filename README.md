@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Adrian Jimenez Santiago
 
-I'm a passionate developer driven by the constant challenge of learning and evolving. Currently completing my FCT internship at **Indra**, I’m diving deep into modern technologies with the goal of becoming a well-rounded Full Stack Developer capable of turning ideas into real-world solutions.
+I'm a passionate developer driven by the constant challenge of learning and evolving. working as a Software Developer at **Indra**, I’m diving deep into modern technologies with the goal of becoming a well-rounded Full Stack Developer capable of turning ideas into real-world solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdrianJS2009&style=for-the-badge)
 
