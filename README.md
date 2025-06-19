@@ -40,7 +40,7 @@ I'm a passionate developer driven by the constant challenge of learning and evol
 
 ## 🌟 Featured Projects
 
-### 🔹 [AeroMatrix](https://github.com/AdrianJimenezSantiago/Proyecto_FCT)
+### 🔹 [AeroMatrix](https://github.com/AdrianJimenezSantiago/AeroMatrix)
 A web platform for managing aerial drones. Built with **React (Vite)** on the frontend and **Spring Boot** on the backend.
 
 ### 🔹 [Bookflix](https://github.com/AdrianJimenezSantiago/Bookflix)
