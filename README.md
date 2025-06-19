@@ -1,4 +1,4 @@
-# 👋 Hello, I'm AdrianJS2009
+# 👋 Hello, I'm Adrian Jimenez Santiago
 
 I'm a passionate developer driven by the constant challenge of learning and evolving. Currently completing my FCT internship at **Indra**, I’m diving deep into modern technologies with the goal of becoming a well-rounded Full Stack Developer capable of turning ideas into real-world solutions.
 
@@ -40,10 +40,10 @@ I'm a passionate developer driven by the constant challenge of learning and evol
 
 ## 🌟 Featured Projects
 
-### 🔹 [AeroMatrix](https://github.com/AdrianJS2009/Proyecto_FCT)
+### 🔹 [AeroMatrix](https://github.com/AdrianJimenezSantiago/Proyecto_FCT)
 A web platform for managing aerial drones. Built with **React (Vite)** on the frontend and **Spring Boot** on the backend.
 
-### 🔹 [Bookflix](https://github.com/AdrianJS2009/Bookflix)
+### 🔹 [Bookflix](https://github.com/AdrianJimenezSantiago/Bookflix)
 An e-commerce app for digital books. Developed using **React** and a **C# Client-Server** architecture.
 
 ---
