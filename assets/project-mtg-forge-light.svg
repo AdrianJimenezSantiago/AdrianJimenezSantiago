@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-labelledby="t"><title id="t">MPC Forge: From any decklist to print-ready Magic: The Gathering proxies.</title><style>
+    .k{font:600 11px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:.26em;fill:#9c7426}
+    .ti{font:400 30px 'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;fill:#1b2230}
+    .tg{font:400 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#5d6878}
+    .pt{font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#1b2230}
+    .ch{font:500 11.5px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1b2230}
+    .ft{font:500 12px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#5d6878}
+    .sweep{animation:sw 7s ease-in-out infinite}
+    @keyframes sw{0%{transform:translateX(-260px)}60%,100%{transform:translateX(640px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}.in,.ln{opacity:1!important;transform:none!important}.b,.bar{transform:none!important}.line{stroke-dashoffset:0!important}}</style>
+    <defs>
+      <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#9c7426" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#9c7426" stop-opacity=".09"/><stop offset="1" stop-color="#9c7426" stop-opacity="0"/></linearGradient>
+      <clipPath id="cc"><rect width="600" height="330" rx="16"/></clipPath>
+    </defs>
+    <g clip-path="url(#cc)">
+      <rect width="600" height="330" fill="#fbf9f4"/>
+      <rect class="sweep" x="0" y="0" width="220" height="330" fill="url(#sh)" transform="skewX(-12)"/>
+      <rect width="600" height="3" fill="#9c7426"/>
+    </g>
+    <rect x=".5" y=".5" width="599" height="329" rx="16" fill="none" stroke="#e4dccb"/>
+    <g transform="translate(544 58)">
+      <circle r="30" fill="#f4f0e6" stroke="#e4dccb"/><g fill="none" stroke="#9c7426" stroke-width="1.6" stroke-linejoin="round"><rect x="-15" y="-19" width="22" height="30" rx="3"/><rect x="-7" y="-12" width="22" height="30" rx="3" fill="#f4f0e6"/><path d="M4 -2 l3 6 -3 6 -3 -6z" fill="#9c7426" stroke="none"/></g>
+    </g>
+    <text class="k" x="32" y="48">LOCAL-FIRST DESKTOP APP</text>
+    <text class="ti" x="31" y="88">MPC Forge</text>
+    <text class="tg" x="32" y="118">From any decklist to print-ready Magic: The Gathering proxies.</text>
+    <path d="M32 138 H568" stroke="#e4dccb"/>
+    <circle cx="40" cy="164" r="2.4" fill="#9c7426"/><text class="pt" x="54" y="169">Imports decks from 7+ sites, resolved through Scryfall</text><circle cx="40" cy="191" r="2.4" fill="#9c7426"/><text class="pt" x="54" y="196">SQLite FTS5 art index with perceptual-hash dedupe</text><circle cx="40" cy="218" r="2.4" fill="#9c7426"/><text class="pt" x="54" y="223">PDF Studio: bleed, cut guides, duplex calibration</text><circle cx="40" cy="245" r="2.4" fill="#9c7426"/><text class="pt" x="54" y="250">Packaged with PyInstaller · i18n (es / en) · CI releases</text>
+    <rect x="32" y="278" width="65" height="24" rx="12" fill="#efe9dc" stroke="#e4dccb"/><text class="ch" x="64" y="294" text-anchor="middle">Python</text><rect x="104.6" y="278" width="72" height="24" rx="12" fill="#efe9dc" stroke="#e4dccb"/><text class="ch" x="140" y="294" text-anchor="middle">FastAPI</text><rect x="184.29999999999998" y="278" width="93" height="24" rx="12" fill="#efe9dc" stroke="#e4dccb"/><text class="ch" x="231" y="294" text-anchor="middle">SQLAlchemy</text><rect x="285.29999999999995" y="278" width="86" height="24" rx="12" fill="#efe9dc" stroke="#e4dccb"/><text class="ch" x="328" y="294" text-anchor="middle">Alpine.js</text><rect x="379.19999999999993" y="278" width="79" height="24" rx="12" fill="#efe9dc" stroke="#e4dccb"/><text class="ch" x="419" y="294" text-anchor="middle">Tailwind</text>
+    <text class="ft" x="568" y="294" text-anchor="end">view ↗</text>
+    </svg>
