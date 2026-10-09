@@ -6,36 +6,36 @@
 </picture>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=C9A45C&center=true&vCenter=true&width=640&lines=Full-stack+developer+in+the+making;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+Python;Local-first%2C+offline-ready%2C+built+to+last;Shipping+side+projects+from+M%C3%A1laga+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing intro"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=C9A45C&center=true&vCenter=true&width=640&lines=Desarrollador+full-stack+en+evoluci%C3%B3n;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+Python;Local-first%2C+sin+conexi%C3%B3n%2C+hecho+para+durar;Creando+proyectos+desde+M%C3%A1laga+%F0%9F%87%AA%F0%9F%87%B8" alt="Presentación animada"></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ajimsan2009"><img src="https://img.shields.io/badge/LinkedIn-Connect-b08a3e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1b2230" alt="LinkedIn"></a>
-  <a href="mailto:ajimsan2096@gmail.com"><img src="https://img.shields.io/badge/Email-Write_me-b08a3e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1b2230" alt="Email"></a>
-  <a href="https://www.indracompany.com/"><img src="https://img.shields.io/badge/Indra_Espacio-Developer-b08a3e?style=for-the-badge&labelColor=1b2230" alt="Indra Espacio"></a>
-  <img src="https://komarev.com/ghpvc/?username=AdrianJimenezSantiago&label=Profile%20views&color=b08a3e&style=for-the-badge&abbreviated=true" alt="Profile views">
+  <a href="https://linkedin.com/in/ajimsan2009"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-b08a3e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1b2230" alt="LinkedIn"></a>
+  <a href="mailto:ajimsan2096@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-b08a3e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1b2230" alt="Email"></a>
+  <a href="https://www.indracompany.com/"><img src="https://img.shields.io/badge/Indra_Espacio-Desarrollador-b08a3e?style=for-the-badge&labelColor=1b2230" alt="Indra Espacio"></a>
+  <img src="https://komarev.com/ghpvc/?username=AdrianJimenezSantiago&label=Visitas&color=b08a3e&style=for-the-badge&abbreviated=true" alt="Profile views">
 </p>
 
-<p align="center"><sub><b>English</b> · <a href="README.es.md">Español</a></sub></p>
+<p align="center"><sub><a href="README.md">English</a> · <b>Español</b></sub></p>
 
 <br>
 
-### ◆ About
+### ◆ Sobre mí
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
   <img alt="Terminal: Junior Software Developer at Indra Espacio, Málaga. Backend: Java, Spring Boot, Python, FastAPI, C#. Frontend: TypeScript, Angular, React, Next.js." src="assets/about-light.svg" width="100%">
 </picture>
 
-I'm a software developer at **Indra Espacio** who likes turning ideas into tools people actually use. My day-to-day lives between **Java / Spring Boot** services and **Angular / TypeScript** interfaces. After hours, I build products end to end: desktop apps in Python, offline-first mobile apps, and everything in between.
+Soy desarrollador de software en **Indra Espacio** y me gusta convertir ideas en herramientas que la gente usa de verdad. Mi día a día transcurre entre servicios **Java / Spring Boot** e interfaces **Angular / TypeScript**. Fuera del trabajo construyo productos de principio a fin: aplicaciones de escritorio en Python, apps móviles que funcionan sin conexión y todo lo que hay entre medias.
 
-| &nbsp;Now | &nbsp;Next | &nbsp;Always |
+| &nbsp;Ahora | &nbsp;Siguiente paso | &nbsp;Siempre |
 |:--|:--|:--|
-| Building enterprise software at Indra Espacio | Going deeper on Spring Boot 3, Angular signals and AWS | Clean architecture, readable code, automated tests |
+| Desarrollando software empresarial en Indra Espacio | Profundizar en Spring Boot 3, Angular signals y AWS | Arquitectura limpia, código legible, tests automatizados |
 
 <br>
 
-### ◆ Featured work
+### ◆ Proyectos destacados
 
 <table>
   <tr>
@@ -57,23 +57,23 @@ I'm a software developer at **Indra Espacio** who likes turning ideas into tools
     </td>
   </tr>
   <tr>
-    <td align="center"><sub><a href="https://github.com/AdrianJimenezSantiago/mtg-forge">Repository</a> · <a href="https://github.com/AdrianJimenezSantiago/mtg-forge/releases">Download</a></sub></td>
-    <td align="center"><sub><a href="https://github.com/AdrianJimenezSantiago/DnD-Grimoire">Repository</a> · <a href="https://dnd-grimoire-five.vercel.app">Live demo</a> · <a href="https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases/latest">Android APK</a></sub></td>
+    <td align="center"><sub><a href="https://github.com/AdrianJimenezSantiago/mtg-forge">Repositorio</a> · <a href="https://github.com/AdrianJimenezSantiago/mtg-forge/releases">Descargar</a></sub></td>
+    <td align="center"><sub><a href="https://github.com/AdrianJimenezSantiago/DnD-Grimoire">Repositorio</a> · <a href="https://dnd-grimoire-five.vercel.app">Demo en vivo</a> · <a href="https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases/latest">Android APK</a></sub></td>
   </tr>
 </table>
 
 <details>
-<summary><b>Earlier projects</b></summary>
+<summary><b>Proyectos anteriores</b></summary>
 <br>
 
-- **AeroMatrix**: drone fleet management platform. React (Vite) frontend with a Spring Boot REST backend.
-- **Bookflix**: e-commerce store for digital books. React client over a C# client-server architecture.
+- **AeroMatrix**: plataforma de gestión de flotas de drones. Frontend en React (Vite) y backend REST con Spring Boot.
+- **Bookflix**: tienda online de libros digitales. Cliente React sobre una arquitectura cliente-servidor en C#.
 
 </details>
 
 <br>
 
-### ◆ How I build
+### ◆ Cómo trabajo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/principles-dark.svg">
@@ -82,7 +82,7 @@ I'm a software developer at **Indra Espacio** who likes turning ideas into tools
 
 <br><br>
 
-### ◆ Toolbox
+### ◆ Herramientas
 
 <p align="center">
   <picture>
@@ -97,23 +97,23 @@ I'm a software developer at **Indra Espacio** who likes turning ideas into tools
 </p>
 
 <details>
-<summary><b>Stack by layer</b></summary>
+<summary><b>Stack por capas</b></summary>
 <br>
 
-| Layer | Technologies |
+| Capa | Tecnologías |
 |:--|:--|
 | **Backend** | Java · Spring Boot · Python · FastAPI · SQLAlchemy · C# / .NET |
 | **Frontend** | TypeScript · Angular · React · Next.js · Alpine.js · Tailwind CSS |
-| **Mobile & desktop** | Capacitor (Android) · PWA · PyInstaller · pywebview |
-| **Data** | MySQL · SQLite (FTS5) · JSON-based local storage |
-| **Quality** | GitHub Actions CI/CD · pytest · Ruff · mypy · ESLint · Robot Framework · Lighthouse CI |
-| **Cloud & delivery** | Vercel · AWS · GitHub Releases |
+| **Móvil y escritorio** | Capacitor (Android) · PWA · PyInstaller · pywebview |
+| **Datos** | MySQL · SQLite (FTS5) · almacenamiento local en JSON |
+| **Calidad** | GitHub Actions CI/CD · pytest · Ruff · mypy · ESLint · Robot Framework · Lighthouse CI |
+| **Nube y despliegue** | Vercel · AWS · GitHub Releases |
 
 </details>
 
 <br>
 
-### ◆ In numbers
+### ◆ En cifras
 
 <table>
   <tr>
@@ -137,14 +137,14 @@ I'm a software developer at **Indra Espacio** who likes turning ideas into tools
   <img alt="Weekly contribution activity over the last year" src="assets/generated/activity-light.svg" width="100%">
 </picture>
 
-<p align="center"><sub>Self-hosted metrics, rendered daily by <a href=".github/workflows/profile.yml">GitHub Actions</a> from the GitHub API. No third-party services.</sub></p>
+<p align="center"><sub>Métricas propias, generadas a diario por <a href=".github/workflows/profile.yml">GitHub Actions</a> desde la API de GitHub. Sin servicios de terceros.</sub></p>
 
 <br>
 
-### ◆ Let's talk
+### ◆ Hablemos
 
-I'm open to conversations about **full-stack development**, **space-sector software** and interesting side projects.
-The quickest way to reach me is [LinkedIn](https://linkedin.com/in/ajimsan2009) or [email](mailto:ajimsan2096@gmail.com).
+Encantado de hablar sobre **desarrollo full-stack**, **software para el sector espacial** y proyectos interesantes.
+La forma más rápida de contactarme es [LinkedIn](https://linkedin.com/in/ajimsan2009) o [email](mailto:ajimsan2096@gmail.com).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">

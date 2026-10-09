@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="t"><title id="t">GitHub metrics</title><style>
+    .k{font:600 11px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:.26em;fill:#d9b36c}
+    .v{font:400 34px 'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;fill:#ece6d8}
+    .l{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#8d97a6}
+    .s{font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#8d97a6}
+    .in{opacity:0;animation:in .8s ease forwards}
+    @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}.in,.ln{opacity:1!important;transform:none!important}.b,.bar{transform:none!important}.line{stroke-dashoffset:0!important}}</style><rect x=".5" y=".5" width="599" height="299" rx="16" fill="#10161f" stroke="#232c3a"/><text class="k" x="32" y="48">THE YEAR IN NUMBERS</text><text class="s" x="32" y="150">Syncing with GitHub… metrics refresh daily.</text></svg>
